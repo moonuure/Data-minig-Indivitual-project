@@ -1,0 +1,10 @@
+# Ignore large model folders
+LLM model/
+W2V model/
+
+# Optional: ignore checkpoints, cache, temp files
+__pycache__/
+*.vec
+*.npy
+.DS_Store
+Thumbs.db
