@@ -53,3 +53,25 @@ A comparative analysis was done across various models:
 > **SomBERTa** was the top-performing model with the highest F1-Score and overall classification power. However, **CNN + BoW** and **LightGBM + TF-IDF** were strong alternatives, especially when computational resources were limited.
 
 ---
+
+## 🔗 Additional Resources
+
+For further information, detailed reports, datasets, and model outputs related to this project, please visit the following Google Drive folder:
+
+🔗 [Project Resources on Google Drive](https://drive.google.com/drive/folders/1D1jLZ6geD24eXvQhMWtKdjVorvLDCsNS)
+
+This includes:
+- Full project PDF report
+- Cleaned dataset
+- Trained model files
+- Charts and evaluation visuals
+
+## 📂 Additional Resources
+
+If you are interested in exploring the full code, models, or results in more detail, visit the following Drive folder:
+
+🔗 [Click here for additional resources and project files](https://drive.google.com/drive/folders/1D1jLZ6geD24eXvQhMWtKdjVorvLDCsNS)
+
+---
+
+For questions, feedback, or collaboration inquiries, feel free to contact the project author.
